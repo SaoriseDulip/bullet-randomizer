@@ -181,5 +181,33 @@ export const heroines = [
         difficulty: 'difficult',
         shortCode: 'bri'
     },
+    {
+        name: 'Behemoth',
+        bossName: 'Mems',
+        set: 'paw',
+        difficulty: 'easy',
+        shortCode: 'beh'
+    },
+    {
+        name: 'Beethoven',
+        bossName: 'Beethoven',
+        set: 'paw',
+        difficulty: 'easy',
+        shortCode: 'bth'
+    },
+    {
+        name: 'Whimsy',
+        bossName: 'Chaos Incarnate',
+        set: 'paw',
+        difficulty: 'both',
+        shortCode: 'whm'
+    },
+    {
+        name: 'Eluros',
+        bossName: 'Elurophobia',
+        set: 'paw',
+        difficulty: 'difficult',
+        shortCode: 'elu'
+    },
 
 ];
