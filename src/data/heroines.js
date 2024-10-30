@@ -31,7 +31,7 @@ export const heroines = [
         name: 'Mariel Martin',
         bossName: 'Mecha Mary',
         set: 'heart',
-        difficulty: 'difficulty',
+        difficulty: 'difficult',
         shortCode: 'mar'
     },
     {
@@ -45,7 +45,7 @@ export const heroines = [
         name: 'Senka Kasun',
         bossName: 'The Bauk',
         set: 'heart',
-        difficulty: 'difficulty',
+        difficulty: 'difficult',
         shortCode: 'sen'
     },
     {
@@ -55,4 +55,61 @@ export const heroines = [
         difficulty: 'difficult',
         shortCode: 'kim'
     },
+    {
+        name: 'LXVI - Memory',
+        bossName: 'Behemoth',
+        set: 'star',
+        difficulty: 'difficult',
+        shortCode: 'mem'
+    },
+    {
+        name: 'XIV - Balance',
+        bossName: 'Celestial Cleaning Ltd.',
+        set: 'star',
+        difficulty: 'easy',
+        shortCode: 'bal'
+    },
+    {
+        name: 'Planil Lalent Talenti',
+        bossName: 'Planil Lalent Talenti',
+        set: 'star',
+        difficulty: 'difficult',
+        shortCode: 'pla'
+    },
+    {
+        name: 'Nawa & Baku',
+        bossName: 'Knife & Form',
+        set: 'star',
+        difficulty: 'difficult',
+        shortCode: 'nab'
+    },
+    {
+        name: 'Jane Doe',
+        bossName: 'Justicar Doe',
+        set: 'star',
+        difficulty: 'easy',
+        shortCode: 'jan'
+    },
+    {
+        name: 'Your News Network',
+        bossName: 'Collective Consciousness',
+        set: 'star',
+        difficulty: 'difficult',
+        shortCode: 'ynn'
+    },
+    {
+        name: 'Vesta Jackson',
+        bossName: 'Starry Night Memory',
+        set: 'star',
+        difficulty: 'easy',
+        shortCode: 'ves'
+    },
+    {
+        name: 'Rose Blanchett',
+        bossName: 'The Black Rose',
+        set: 'star',
+        difficulty: 'easy',
+        shortCode: 'ros'
+    },
+
 ];
