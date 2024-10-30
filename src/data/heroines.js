@@ -111,5 +111,33 @@ export const heroines = [
         difficulty: 'easy',
         shortCode: 'ros'
     },
+    {
+        name: 'QP',
+        bossName: 'Hyper Mode',
+        set: 'orange',
+        difficulty: 'difficult',
+        shortCode: 'qp'
+    },
+    {
+        name: 'Marc',
+        bossName: 'Red Barrel',
+        set: 'orange',
+        difficulty: 'easy',
+        shortCode: 'red'
+    },
+    {
+        name: 'Suguri',
+        bossName: 'The Forest Witch',
+        set: 'orange',
+        difficulty: 'easy',
+        shortCode: 'sug'
+    },
+    {
+        name: 'Sora',
+        bossName: 'Sora',
+        set: 'orange',
+        difficulty: 'difficult',
+        shortCode: 'sor'
+    },
 
 ];
