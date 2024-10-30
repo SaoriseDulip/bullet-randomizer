@@ -139,5 +139,19 @@ export const heroines = [
         difficulty: 'difficult',
         shortCode: 'sor'
     },
+    {
+        name: 'Anne-Claire Forthwith',
+        bossName: 'Kewpitrix Engine',
+        set: 'penny',
+        difficulty: 'difficult',
+        shortCode: 'ann'
+    },
+    {
+        name: 'Beethoven',
+        bossName: 'Beethoven',
+        set: 'beethoven',
+        difficulty: 'easy',
+        shortCode: 'bpr'
+    },
 
 ];
