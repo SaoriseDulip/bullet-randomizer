@@ -153,5 +153,33 @@ export const heroines = [
         difficulty: 'easy',
         shortCode: 'bpr'
     },
+    {
+        name: 'Shout Star',
+        bossName: 'Shout Star Live',
+        set: 'pallet',
+        difficulty: 'easy',
+        shortCode: 'sht'
+    },
+    {
+        name: 'precursor Die',
+        bossName: 'Gamemaster Die',
+        set: 'pallet',
+        difficulty: 'easy',
+        shortCode: 'die'
+    },
+    {
+        name: 'Zuri Kasango',
+        bossName: 'The Defacer of Tyranny',
+        set: 'pallet',
+        difficulty: 'difficult',
+        shortCode: 'zur'
+    },
+    {
+        name: 'Bridget Glenn',
+        bossName: 'The Loremaster',
+        set: 'pallet',
+        difficulty: 'difficult',
+        shortCode: 'bri'
+    },
 
 ];
